@@ -1,13 +1,14 @@
 # How to contribute
 
-Contributions from additional collaborators is currently closed. For those allowed too contribute, follow these steps.
+Contributions from additional collaborators is currently closed. For those allowed to contribute, follow these steps.
 
 1. Unless there's an issue open that your contribution will address, create a new issue. Please explain the purpose of your proposed changes.
+1. Only xofdb can assign people to issues.
 1. For issues you've been assigned, create a branch with your changes. Make sure to follow the Git and code styles shown in the sections below.
 1. Make sure to update the Contributors section of the [README](README.md) file. Include your GitHub user name (linked) and your name (optional).
 1. Create a pull request (PR). Make sure to tag the issue your PR addresses.
 1. Add xofbd as the reviewer and assignee.
-1. Only xofdb can assign people to issues.
+1. When you get the approval, hit the "Rebase and merge" option on GitHub.
 
 ## Git style
 Follow the guidelines below when making commits.
